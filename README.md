@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects, web development, and software engineering projects.**
 
-- 🤝 I’m looking for help with **Improving my JavaScript and backend development skills.**
+- 🤝 Interested in **learning from developers and contributing to meaningful projects.**
 
 - 💬 Ask me about **Web Development, HTML, CSS, JavaScript, Git, and GitHub.**
 
 - 📫 How to reach me **mutharahasin@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning ideas into websites and learning something new every day. 💻✨**
+- ⚡ Fun fact : **I enjoy turning ideas into websites and learning something new every day. 💻✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
